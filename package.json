@@ -13,7 +13,7 @@
   "author": "INCONNU BOY",
   "license": "ISC",
   "dependencies": {
-    "@whiskeysockets/baileys": "npm:asitha-new-v99",
+    "@whiskeysockets/baileys": "npm:baileys-pro@0.0.5",
     "@ffmpeg-installer/ffmpeg": "^1.1.0",
     "@google/generative-ai": "^0.9.0",
     "@hapi/boom": "^10.0.1",
@@ -60,6 +60,7 @@
     "stream": "^0.0.3",
     "tesseract.js": "^5.1.0",
     "translate-google-api": "^1.0.4",
+    "unzipper": "^0.10.14",
     "url": "^0.11.4",
     "uuid": "^9.0.1",
     "wasitech": "npm:@distube/ytdl-core",
